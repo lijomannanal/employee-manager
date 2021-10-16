@@ -18,7 +18,7 @@ npm install
 
 ### Starting Project
 Starting the project in local environment.
-This will start all the dependencies services i.e. database and external (folder).
+This will start the web server.
 ```bash
 npm start
 ```
