@@ -6,7 +6,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 <br>
-In the project directory, you can run:
 
 ## Commands
 All the commands listed should be ran in project directory (employee-manager).
@@ -25,7 +24,7 @@ npm start
 ```
 
 ### Accessing the GUI
-http://localhost:3000/
+http://localhost:3000
 
 ### Things to note
 
